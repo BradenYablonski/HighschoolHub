@@ -1,5 +1,3 @@
-# TO run the app download Android Studio
-
 # <div align="center"><p style="color: White; font-size:larger;">**Highschool Hub**</p></div>
 
 ## <div align="center"><p style="color: orange; font-size:larger;"><ins>**Purpose of Highschool Hub**</ins></p></div>
